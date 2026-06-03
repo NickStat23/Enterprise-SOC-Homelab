@@ -141,6 +141,6 @@ Per-query alert monitor configured in the Wazuh alerting module running every 1 
 
 ## 🙋 Author
 
-**Nick Efstathiou**
+**Nicholas Efstathiou**
 Cybersecurity | Network Engineering | Home Lab
 [LinkedIn](https://www.linkedin.com/in/NickStat23)
